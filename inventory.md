@@ -5,3 +5,4 @@
 | Laptop | Available |
 | Projector | Available |
 | Printer | Available |
+| Server Rack | Available |
